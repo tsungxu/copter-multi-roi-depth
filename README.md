@@ -1,4 +1,4 @@
-# uav-multi-roi-depth
+# copter-multi-roi-depth
 
 Script to enable multi roi obstacle avoidance in Ardupilot using a Luxonis OAK D camera. 
 
